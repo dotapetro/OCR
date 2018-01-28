@@ -8,7 +8,7 @@
 
   - Train your net. Here's a little example (works really bad) how to do this using linear based RNN (look Conditional Character-Level RNN)
 
-  - You really should use Tensorboard cuz it's really helpful tool
+  - You really should use Tensorboard cuz it's a really helpful tool
 
 ### Requirements
 
