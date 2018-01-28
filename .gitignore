@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 datagen/.ipynb_checkpoints
 train_image
-logs/
-datagen/data/
+logs/*
+datagen/data/*
 LinearRnn.pt
