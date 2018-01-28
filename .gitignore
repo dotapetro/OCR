@@ -2,5 +2,7 @@
 datagen/.ipynb_checkpoints
 train_image
 logs/*
-datagen/data/*
+datagen/data/test/*
+datagen/data/train/*
+datagen/data/valid/*
 LinearRnn.pt

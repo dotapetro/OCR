@@ -37,9 +37,22 @@ $ pip install -r requirements.txt
 >Pytorch:
 
 ``` sh
-$ pip install -r pytorch.txt
+$ pip install -r req_pytorch.txt
 
 ```
+>Keras:
+
+``` sh
+$ pip install -r req_keras.txt
+
+```
+
+> If you want keras gpu, run:
+``` sh
+$ pip install tensorflow-gpu
+```
+> If you are windows youser you have to install it through conda environments
+
 
 
 # Useful links:
@@ -56,8 +69,5 @@ $ pip install -r pytorch.txt
   - [LSTM & GRU (RU)](https://www.youtube.com/watch?v=wYI7RZz4Rz0)
 
 
-#Igor's wise comment:
-
->Будем двигаться от малого к большому. Я предлагаю ограничиться небольшими словами (не более 12 символов) и начинать эксперименты с ограниченного алфавита (например, abcdefghij), с парой шрифтов (или одним). И посмотрев на результаты, пробовать расширяться. Выбор фрэймворка для написания сети за вами. Я рекомендую начать с архитектуры, аналогичной описанной в первом пункте материалов.
-
+# [Igor's wise comment](https://docs.google.com/document/d/1wT8G1G47hoxx4dFnVm-25sqi5N7TX3Qy53YMdfg7fIA/edit)
 
