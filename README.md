@@ -51,7 +51,7 @@ $ pip install -r req_keras.txt
 ``` sh
 $ pip install tensorflow-gpu
 ```
-> If you are windows youser you have to install it through conda environments
+> If you are windows user you have to install it(tf-gpu) through conda environments
 
 
 
