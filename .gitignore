@@ -6,3 +6,4 @@ datagen/data/test/*
 datagen/data/train/*
 datagen/data/valid/*
 LinearRnn.pt
+datagen/data/*.npy
