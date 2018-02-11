@@ -8,7 +8,7 @@
 
   - Train your net. Here's a little example (works really bad) how to do this using linear based RNN (look Conditional Character-Level RNN)
 
-  - You really should use Tensorboard cuz it's really helpful tool
+  - You really should use Tensorboard cuz it's a really helpful tool
 
 ### Requirements
 
@@ -51,7 +51,7 @@ $ pip install -r req_keras.txt
 ``` sh
 $ pip install tensorflow-gpu
 ```
-> If you are windows youser you have to install it through conda environments
+> If you are windows user you have to install it(tf-gpu) through conda environments
 
 
 
